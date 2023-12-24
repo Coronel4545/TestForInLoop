@@ -41,6 +41,7 @@ body {
   
   .TravaPC{
   position: relative;
+  top:450px;
   left:42%;
   padding:5px;
   background-color:pink;
